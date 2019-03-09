@@ -1,4 +1,4 @@
-# APS.NET Core Identity with MySQL
+# ASP.NET Core Identity with MySQL
 
 Application in ASP.NET Core 2.0 with Identity using a MySQL Database.
 
