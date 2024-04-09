@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = IdentityCoreWithMySQL
+build_property.ProjectDir = C:\Users\vinicius\Source\Repos\aspnet-core-identity-with-my-sql\IdentityCoreWithMySQL\
